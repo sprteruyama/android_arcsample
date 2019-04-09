@@ -67,7 +67,8 @@ ProgressBarを設置しているレイアウトはこちら。
             android:rotation="-90"
             android:progressDrawable="@drawable/arc_progress"
             android:progress="60"
-            android:max="100" tools:layout_editor_absoluteX="256dp"/>
+            android:max="100" 
+            tools:layout_editor_absoluteX="256dp"/>
 </LinearLayout>
 ```
 
